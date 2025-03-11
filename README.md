@@ -13,11 +13,11 @@ Open-WebUI 설치가 어렵고 복잡하게 느껴지셨나요?
 
 📥 설치 방법
 
-아래 링크에서 EXE 파일을 다운로드한 후 바로 설치하시면 됩니다.
+링크에서 ZIP 파일을 다운로드해 압축을 풀고, 폴더 안의 open_webui_conda.exe를 실행하세요.
 
 🔗 [다운로드 링크](https://github.com/Kittyhope/open-webui-downloader/releases/tag/v1.0.0-conda)
 
-⚠️ 주의: 다운로드 페이지에서 EXE 파일만 선택하세요!
+⚠️ 주의: 실행 시 필요한 권한을 허용해 주세요.
 
 🎉 이제 원하는 모델을 마음껏 사용하세요!
 
@@ -39,11 +39,11 @@ Worry no more! Here is an automatic downloader that even beginners can use easil
 
 📥 Installation Guide
 
-Download the EXE file from the link below and install it right away.
+Download the ZIP file from the link, extract it, and run open_webui_conda.exe inside the folder.
 
 🔗 [Download Link](https://github.com/Kittyhope/open-webui-downloader/releases/tag/v1.0.0-conda)
 
-⚠️ Important: Make sure to select ONLY the EXE file on the download page!
+⚠️ Important: Grant the necessary permissions when running.
 
 🎉 Enjoy Your Preferred Models Freely!
 
